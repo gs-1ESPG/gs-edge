@@ -84,18 +84,6 @@ Para usar, instale a biblioteca:
 4. Clique em **Upload** para enviar ao Arduino.
 5. O sistema começará a monitorar o nível de água automaticamente.
 
----
-
-## 🏗️ Possíveis Melhorias
-
-- Adicionar sensor de chuva.
-- Enviar alertas via Wi-Fi (com ESP8266 ou ESP32).
-- Implementar monitoramento em aplicativo ou página web.
-- Armazenamento de dados históricos em cartão SD ou EEPROM.
-
----
-
-## 📜 Licença
 
 Projeto desenvolvido para fins educacionais.  
 Feito com 💙 por [Seu Nome] no projeto **SafePlace**.
